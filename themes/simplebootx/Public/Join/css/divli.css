@@ -1,0 +1,33 @@
+#divmain{
+ width:920px;
+height: 350px;
+margin:0 auto;
+}
+
+#divleft{
+ float: left;
+ width: 460px;
+ height: 400px;
+
+}
+
+#divright{
+float: left;
+width: 460px;
+height: 400px;
+
+}
+
+#divbaseleft{
+  width: 460px;
+ height: 200px;
+}
+
+#divotherleft{
+ width: 460px;
+ height: 300px;
+}
+#divverifyleft{
+ width: 460px;
+ height: 80px;
+}

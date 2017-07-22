@@ -1,0 +1,129 @@
+[ 2017-04-06T18:54:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T18:54:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T19:15:00+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery-3.1.1.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T19:15:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery-3.1.1.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T19:16:04+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery-3.1.1.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T19:16:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery-3.1.1.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T19:16:14+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T19:29:46+08:00 ] ::1 /kjl/index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.006427s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010538s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.007782s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.007885s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `cmf_users` WHERE `id` = '2' LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0203s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0194s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0216s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0226s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 24 AND `term_id` NOT IN ('1') [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 24 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 24 AND `term_id` = '1' [ RunTime:0.0007s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='发电行业解决方案',`post_keywords`='解决方案 发电',`post_source`='12121222',`post_excerpt`='1212221111111111111',`post_date`='2017-04-05 11:04:25',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p style=\"white-space: normal; text-align: center;\"><span style=\"font-size: 18px;\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">发电行业解决方案</span></strong></span></p><table interlaced=\"enabled\" align=\"center\"><tbody><tr class=\"ue-table-interlace-color-single firstRow\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;解决方案</span></strong></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;涵盖范围</span></strong></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;价值体现</span></strong></td></tr><tr class=\"ue-table-interlace-color-double\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp;电厂十大问题改善方案</span></strong></p><p>&nbsp;<img src=\"/data/upload/ueditor/20170405/58e460fbec6e9.png\" title=\"1.png\" alt=\"1.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供高科技技术进行发电设备主要问题诊断（不影响生产）</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">发展主要问题的解决方案</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">导入解决方案与改善</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">进行后诊断及改善后效果确认</span></p><p><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">解决电厂主要十大问题例如管道、燃烧器、磨煤机、风机电机、发电机叶片、变压器等影响成本及运转的主要问题，有效提供方案及改善解决</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-single\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;全厂精密总体检</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e461078a12e.png\" title=\"2.png\" alt=\"2.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供完整电厂精密总体检尤其在定期保养或定期大修前,数百个电厂使用此种技术于每年进行一次精密总体检,决定大修项目更换部件,以确定大修后的运转可靠度及零故障并避免不必要的修护及更换大幅降低成本</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">大幅降低故障率及大修成本并有效缩短维修时间</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-double\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;O&amp;M 成本改善方案</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e4610e023c4.png\" title=\"3.png\" alt=\"3.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">使用诊断技术,异常周期延长改善技术, 从设计,组装,安装,维护保养方式提供可靠度方案,已大幅降低发电设备维护成本</span></p><p><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">许多发电厂确认导入解决方案将维护成本,备品备件库存成本,加班抢修及外包修护成本大幅降低可达60%</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-single\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;风力发电解决方案</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e46114a2fdf.png\" title=\"4.png\" alt=\"4.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供完整风力发电解决方案,以连续监控机械,电机,发电机,变压器,叶片增速机及电力质量等，以确保风力发电连续可靠零故障运转</span></p><p><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">风力发电机因操作条件及设计因素,存在非常高的故障率,且维修不易，风力发电解决方案提供完整的可靠度方案</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-double\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;电厂效能远程诊断</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e4611a3b551.png\" title=\"5.png\" alt=\"5.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供完整的电厂远程诊断方案，包含运转状况机电仪控及制程，维持电厂电力供应稳定可靠，此远程诊断涵盖完整的专业诊断技术非DC等制程系统</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">完整持续且精确掌握电厂设备运转状况</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-single\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 电厂零故障解决方案</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e46121e2979.png\" title=\"6.png\" alt=\"6.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">已发展20年的电厂零故障系统, 超过数百个电厂导入,可靠度系统包含火力电厂,核能电厂,水力电厂,风力发电,燃气电厂,可以大幅降低电厂异常停机时间,提高电厂生产效率</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">超过100台以上发电设备导入,投资报酬率前2年达27倍以上</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"><br/></span><br/></p></td></tr></tbody></table><p><br/></p>',`post_modified`='2017-04-06 19:29:46',`smeta`='{\"thumb\":\"portal\\/20170406\\/58e5f009e28b4.jpg\",\"template\":\"\"}' WHERE `id` = '24' [ RunTime:0.0029s ]
+
+[ 2017-04-06T20:22:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:22:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:43:25+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:43:25+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:44:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:44:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:44:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:44:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:44:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:44:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:47:44+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:47:44+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:48:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:48:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:53:01+08:00 ] ::1 /kjl/index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002991s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005346s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.003479s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.003533s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `cmf_users` WHERE `id` = '2' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0048s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0051s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 24 AND `term_id` NOT IN ('1') [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 24 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 24 AND `term_id` = '1' [ RunTime:0.0002s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='发电行业解决方案',`post_keywords`='解决方案 发电',`post_source`='',`post_excerpt`='',`post_date`='2017-04-05 11:04:25',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p style=\"white-space: normal; text-align: center;\"><span style=\"font-size: 18px;\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">发电行业解决方案</span></strong></span></p><table interlaced=\"enabled\" align=\"center\"><tbody><tr class=\"ue-table-interlace-color-single firstRow\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;解决方案</span></strong></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;涵盖范围</span></strong></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;价值体现</span></strong></td></tr><tr class=\"ue-table-interlace-color-double\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp;电厂十大问题改善方案</span></strong></p><p>&nbsp;<img src=\"/data/upload/ueditor/20170405/58e460fbec6e9.png\" title=\"1.png\" alt=\"1.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供高科技技术进行发电设备主要问题诊断（不影响生产）</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">发展主要问题的解决方案</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">导入解决方案与改善</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">进行后诊断及改善后效果确认</span></p><p><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">解决电厂主要十大问题例如管道、燃烧器、磨煤机、风机电机、发电机叶片、变压器等影响成本及运转的主要问题，有效提供方案及改善解决</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-single\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;全厂精密总体检</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e461078a12e.png\" title=\"2.png\" alt=\"2.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供完整电厂精密总体检尤其在定期保养或定期大修前,数百个电厂使用此种技术于每年进行一次精密总体检,决定大修项目更换部件,以确定大修后的运转可靠度及零故障并避免不必要的修护及更换大幅降低成本</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">大幅降低故障率及大修成本并有效缩短维修时间</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-double\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;O&amp;M 成本改善方案</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e4610e023c4.png\" title=\"3.png\" alt=\"3.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">使用诊断技术,异常周期延长改善技术, 从设计,组装,安装,维护保养方式提供可靠度方案,已大幅降低发电设备维护成本</span></p><p><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">许多发电厂确认导入解决方案将维护成本,备品备件库存成本,加班抢修及外包修护成本大幅降低可达60%</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-single\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;风力发电解决方案</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e46114a2fdf.png\" title=\"4.png\" alt=\"4.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供完整风力发电解决方案,以连续监控机械,电机,发电机,变压器,叶片增速机及电力质量等，以确保风力发电连续可靠零故障运转</span></p><p><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">风力发电机因操作条件及设计因素,存在非常高的故障率,且维修不易，风力发电解决方案提供完整的可靠度方案</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-double\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;电厂效能远程诊断</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e4611a3b551.png\" title=\"5.png\" alt=\"5.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">提供完整的电厂远程诊断方案，包含运转状况机电仪控及制程，维持电厂电力供应稳定可靠，此远程诊断涵盖完整的专业诊断技术非DC等制程系统</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">完整持续且精确掌握电厂设备运转状况</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td></tr><tr class=\"ue-table-interlace-color-single\"><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"221\"><p><strong><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 电厂零故障解决方案</span></strong></p><p><img src=\"/data/upload/ueditor/20170405/58e46121e2979.png\" title=\"6.png\" alt=\"6.png\"/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"257\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">已发展20年的电厂零故障系统, 超过数百个电厂导入,可靠度系统包含火力电厂,核能电厂,水力电厂,风力发电,燃气电厂,可以大幅降低电厂异常停机时间,提高电厂生产效率</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span><br/></p></td><td valign=\"top\" style=\"border: 1px solid rgb(165, 165, 165); word-break: break-all;\" width=\"235\"><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"></span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;\">超过100台以上发电设备导入,投资报酬率前2年达27倍以上</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 14px;\"><br/></span><br/></p></td></tr></tbody></table><p><br/></p>',`post_modified`='2017-04-06 20:53:01',`smeta`='{\"thumb\":\"portal\\/20170406\\/58e5f009e28b4.jpg\",\"template\":\"\"}' WHERE `id` = '24' [ RunTime:0.0008s ]
+
+[ 2017-04-06T20:56:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T20:56:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T21:01:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T21:01:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T21:02:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T21:02:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T21:04:47+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-06T21:04:47+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+

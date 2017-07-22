@@ -1,0 +1,9 @@
+[ 2017-04-19T19:30:21+08:00 ] ::1 /kjl/
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-19T20:21:43+08:00 ] ::1 /kjl/
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-19T20:23:01+08:00 ] ::1 /kjl/
+ERR: Call to undefined function mysql_connect()
+

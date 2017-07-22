@@ -1,0 +1,91 @@
+
+
+		<tc_include file="Public:head" />
+		<style>
+			#article_content img{height:auto !important}
+			#article_content {word-wrap: break-word;}
+    		.btn {margin-top: 33px;}
+
+		</style>
+	</head>
+<body class="">
+<tc_include file="Public:nav" />
+<php>
+if($_GET[cid]==4)
+{
+$i=4;
+}else{
+    $i=3;
+}
+</php>
+
+<div>
+    <img src="__PUBLIC__/images/bag{$i}.jpg" alt="康吉诺(北京)科技有限公司" class="big">
+</div>
+<div class="container tc-main" >
+
+	<div class="row">
+		<div class="span9">
+
+			<div class="tc-box first-box article-box" style="width: 1160px">
+		    	<h4>{$post_title}</h4>
+		    	<div class="article-infobox">
+		    		<span>{$post_date} by {$user_nicename|default=$user_login}</span>
+		    		<span>
+		    			<a href="javascript:;"><i class="fa fa-eye"></i><span>{$post_hits}</span></a>
+
+
+					</span>
+		    	</div>
+		    	<hr>
+		    	<div id="article_content">
+		    	{$post_content}
+		    	</div>
+                <if condition="!empty($post_source)">
+
+
+    			</if>
+		    	<div>
+					<if condition="!empty($prev)">
+					<a href="{:leuu('article/index',array('id'=>$prev['object_id'],'cid'=>$prev['term_id']))}" class="btn btn-primary pull-left">上一篇</a>
+					</if>
+					<if condition="!empty($next)">
+					<a href="{:leuu('article/index',array('id'=>$next['object_id'],'cid'=>$next['term_id']))}" class="btn btn-warning pull-right">下一篇</a>
+					</if>
+    	            <script type="text/javascript" src="__TMPL__Public/assets/js/qrcode.min.js"></script>
+                    <div id="qrcode" style="width: 100px;margin:0 auto"></div>
+    					<script type="text/javascript">
+
+                        function makeCode () {
+                        qrcode.makeCode("http://{$_SERVER['HTTP_HOST']}{$_SERVER['REQUEST_URI']}");
+                        }
+                        makeCode();
+                        </script>
+					<div class="clearfix"></div>
+				</div>
+
+
+		    	{:hook('comment',array(
+		    		'post_id'=>$article_id,
+		    		'post_table'=>'posts',
+		    		'post_title'=>$post_title
+		    	))}
+		    </div>
+
+		    <php>$ad=sp_getad("portal_article_bottom");</php>
+			<if condition="!empty($ad)">
+
+			</if>
+
+		</div>
+
+		</div>
+
+	</div>
+
+<tc_include file="Public:footer"/>
+</div>
+
+<tc_include file="Public:scripts"/>
+</body>
+</html>

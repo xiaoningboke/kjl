@@ -1,0 +1,1026 @@
+[ 2017-04-07T18:04:10+08:00 ] ::1 /kjl/
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:04:39+08:00 ] ::1 /kjl/index.php?g=Portal&m=About&a=index
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:06:41+08:00 ] ::1 /kjl/
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:07:22+08:00 ] ::1 /kjl/index.php
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:07:28+08:00 ] ::1 /kjl/index.php?g=Portal&m=list&a=index&id=4
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:07:44+08:00 ] ::1 /kjl/index.php?g=Portal&m=Join&a=index
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:07:51+08:00 ] ::1 /kjl/index.php?g=Portal&m=Contact&a=index
+ERR: Call to undefined function mysql_connect()
+
+[ 2017-04-07T18:10:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery-3.1.1.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:10:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery-3.1.1.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:10:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:10:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:12:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:13:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:13:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:13:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:14:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:14:55+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:14:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:16:07+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:16:08+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:17:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:17:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:17:56+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:21:05+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:21:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:21:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:21:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:21:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:26:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:26:38+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:26:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:28:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:28:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:28:35+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:28:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:29:02+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:29:05+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:30:37+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:30:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:30:43+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:30:54+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:30:59+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:31:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:31:22+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:31:27+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:31:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:35:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:35:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:35:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:35:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:35:45+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:35:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:36:35+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:36:39+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:36:43+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:37:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:37:06+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:37:08+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:38:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:38:38+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:38:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:39:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:39:39+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:39:42+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:39:50+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:39:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:40:11+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:40:11+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:41:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:41:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:41:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:42:04+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:42:05+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:42:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:43:20+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:43:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:43:27+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:44:26+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:44:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:44:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:44:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:44:50+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:44:52+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:48:14+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:48:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:48:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:50:04+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:50:08+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:50:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:50:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:50:38+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:50:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:51:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:51:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:51:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:52:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:52:56+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:52:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:54:08+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:54:12+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:54:14+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:55:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:55:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:55:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:55:54+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:55:59+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:56:00+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:57:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:57:22+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:57:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T18:58:52+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:00:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:00:20+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:00:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:00:29+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:01:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:01:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:01:35+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:01:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:02:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:02:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:02:20+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:02:27+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:04:27+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:04:31+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:04:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:04:39+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:05:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:05:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:06:00+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:06:06+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:06:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:06:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:06:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:06:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:27+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:31+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:36+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:45+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:50+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:08:54+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:09:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:10:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:10:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:10:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:10:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:14:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:14:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:14:20+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:14:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:21:39+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:21:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:22:38+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:22:39+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:23:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:23:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:23:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:23:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:23:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:23:59+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:24:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:24:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:24:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:24:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:25:12+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:25:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:25:48+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:25:48+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:26:31+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:26:31+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:27:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:27:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:29:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:29:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:30:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:30:11+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:30:22+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:30:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:32:09+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:32:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:33:42+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:33:45+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:34:08+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:34:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:35:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:37:12+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:37:16+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:37:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:37:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:37:35+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:37:37+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:38:26+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:38:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:38:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:39:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:39:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:39:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:41:03+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:41:07+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:41:09+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:41:52+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:41:54+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:42:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:43:49+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:43:54+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:43:56+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:44:33+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:44:37+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:44:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:44:50+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:44:55+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:44:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:46:50+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:46:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:48:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:48:25+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:48:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:50:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:50:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:50:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:50:43+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:50:44+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:51:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:51:32+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:53:16+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:53:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:53:36+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:53:37+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:53:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:54:45+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:54:49+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:54:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:55:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:55:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:55:48+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:56:06+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:56:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:56:12+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:56:52+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:56:56+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:56:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:58:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:58:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:58:20+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:58:59+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:59:03+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T19:59:05+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:00:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:00:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:00:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:01:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:01:25+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:01:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:02:10+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:02:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:02:16+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:02:49+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:02:56+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:02:59+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:03:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:04:02+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:04:04+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:04:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:04:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:04:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:05:09+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:05:13+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:05:15+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:06:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:06:28+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:06:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:06:55+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:06:59+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:07:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:13:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:13:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:14:00+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:15:14+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:15:19+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:15:21+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:16:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:16:22+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:16:25+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:18:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:18:06+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:18:08+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:18:51+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:18:55+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:18:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:19:47+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:19:52+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:19:55+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:20:30+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:20:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:20:36+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:21:03+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:21:07+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:21:09+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:22:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:23:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:23:04+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:00+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:04+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:07+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:34+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:37+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:40+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:49+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:26:55+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:27:46+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:27:50+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:27:52+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:28:17+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:28:41+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:28:45+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:28:49+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:28:49+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:28:57+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:02+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:07+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:07+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:18+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:22+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:26+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:26+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:53+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:29:58+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:30:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:30:01+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:32:48+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:36:23+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:36:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap-theme.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:36:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/simpleboot/bootstrap/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:36:24+08:00 ] ::1 /kjl/themes/simplebootx/Public/assets/js/jquery.validate.min.js
+ERR: 无法加载控制器:Themes
+

@@ -1,0 +1,60 @@
+<link rel="stylesheet" href="__TMPL__Public/mystyle/css/style.css" type="text/css">
+
+<div class="bodycont">
+    <div class="students">
+
+          <div id="four_flash">
+            {$name}
+            <div class="flashBg">
+                <ul class="mobile">
+
+<!-- 无缝滚动代码 -->
+                        <php> $lists = sp_sql_posts_paged("cid:$cat_id;order:post_date DESC;",20); </php>
+
+            <volist name="lists['posts']" id="vo">
+            <php>
+            $smeta=json_decode($vo['smeta'], true);
+            </php>
+                    <li onclick='location.href ="{:leuu('article/index',array('id'=>$vo['object_id'],'cid'=>$vo['term_id']))}"'>
+                                <img src="{:sp_get_asset_upload_path($smeta['thumb'])}" alt="{$vo.post_title}"  style="height:200px;width:200px;" >
+                        <dd>
+                        {$vo.post_title}
+                        </dd>
+                        <!-- <p>{$vo.index_content}</p>
+                        <a href="#"></a> -->
+                    </li>
+</volist>
+<!-- 无缝滚动代码 -->
+                </ul>
+            </div>
+            <div class="but_left"><img src="__TMPL__Public/mystyle/img/qianxleft.png"></div>
+            <div class="but_right"><img src="__TMPL__Public/mystyle/img/qianxr.png"></div>
+          </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="__TMPL__Public/mystyle/js/jquery.js"></script>
+<script type="text/javascript">
+//学员
+var _index5=0;
+$("#four_flash .but_right img").click(function(){
+    _index5++;
+    var len=$(".flashBg ul.mobile li").length;
+    if(_index5+5>len){
+        $("#four_flash .flashBg ul.mobile").stop().append($("ul.mobile").html());
+    }
+    $("#four_flash .flashBg ul.mobile").stop().animate({left:-_index5*326},1000);
+    });
+
+
+$("#four_flash .but_left img").click(function(){
+    if(_index5==0){
+        $("ul.mobile").prepend($("ul.mobile").html());
+        $("ul.mobile").css("left","-1380px");
+        _index5=6
+    }
+    _index5--;
+    $("#four_flash .flashBg ul.mobile").stop().animate({left:-_index5*326},1000);
+    });
+
+</script>

@@ -1,0 +1,55 @@
+[ 2017-04-20T11:43:28+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001293s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002569s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.002286s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.002324s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `cmf_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0513s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0371s ]
+SQL: UPDATE `cmf_users` SET `user_login`='admin',`user_pass`='###1fa42de4f9c810602e344612e4625610',`user_nicename`='',`user_email`='12@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`='2000-01-01',`signature`=NULL,`last_login_ip`='0.0.0.0',`last_login_time`='2017-04-20 11:43:28',`create_time`='2017-03-23 11:52:40',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '2' [ RunTime:0.0005s ]
+
+[ 2017-04-20T13:06:39+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002092s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004497s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.002542s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.002616s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `cmf_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0086s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0010s ]
+SQL: UPDATE `cmf_users` SET `user_login`='admin',`user_pass`='###1fa42de4f9c810602e344612e4625610',`user_nicename`='',`user_email`='12@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`='2000-01-01',`signature`=NULL,`last_login_ip`='0.0.0.0',`last_login_time`='2017-04-20 13:06:39',`create_time`='2017-03-23 11:52:40',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '2' [ RunTime:0.0004s ]
+
+[ 2017-04-20T16:01:04+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002418s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005048s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.002887s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.002942s ]
+
+[ 2017-04-20T16:01:10+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001812s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004181s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.003302s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.003411s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cmf_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0558s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0366s ]
+SQL: UPDATE `cmf_users` SET `user_login`='admin',`user_pass`='###1fa42de4f9c810602e344612e4625610',`user_nicename`='',`user_email`='12@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`='2000-01-01',`signature`=NULL,`last_login_ip`='0.0.0.0',`last_login_time`='2017-04-20 16:01:10',`create_time`='2017-03-23 11:52:40',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '2' [ RunTime:0.0008s ]
+

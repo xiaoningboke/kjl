@@ -1,0 +1,37 @@
+
+<tc_include file="Public:head" />
+
+    <link href="__TMPL__Public/article/css/article.css" rel="stylesheet">
+    <!--  -->
+<link href="__TMPL__Public/article/css/leftcontant.css" rel="stylesheet">
+<!--  -->
+    <tc_include file="Public:nav" />
+<img src="__PUBLIC__/images/bag2.jpg" class="big">
+    <div class="container">
+    <br/>
+
+        <hr>
+       <div id='main'>
+    <div id="divimg" align="center">
+    <img src="{:sp_get_asset_upload_path($smeta['thumb'])}" alt="{$post_title}" height="450px"  hspace="30">
+    </div>
+
+<!-- 测试 -->
+     
+                        
+                            <font class="importtd"><br/>{$post_content}</font>
+                       
+   
+<!-- 测试 -->
+
+    </div>
+
+
+        </div>
+        <div id="nextpage"></div>
+
+        <tc_include file="Public:footer" />
+    <tc_include file="Public:scripts"/>
+    </div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[ 2017-05-02T19:58:56+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001880s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003776s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.002277s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.002321s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `cmf_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-02T19:59:03+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001856s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003704s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.002538s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.002587s ]
+
+[ 2017-05-02T19:59:11+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001860s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003849s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.003084s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.003163s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `cmf_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0478s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0366s ]
+SQL: UPDATE `cmf_users` SET `user_login`='admin',`user_pass`='###1fa42de4f9c810602e344612e4625610',`user_nicename`='',`user_email`='12@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`='2000-01-01',`signature`=NULL,`last_login_ip`='0.0.0.0',`last_login_time`='2017-05-02 19:59:11',`create_time`='2017-03-23 11:52:40',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '2' [ RunTime:0.0006s ]
+

@@ -1,0 +1,141 @@
+<style type="text/css">
+    .tdalign{
+        text-align: right !important;
+    }
+    #main{
+  width: 1000px;
+  height: 460px;
+  margin: 20px auto;
+    }
+#divtitle{
+   margin-top: 30px;
+   margin-left: 180px;
+   width: 150px;
+    height: 25px;
+    background-color:#0040A2;
+}
+#divtitle h4{
+    line-height: 100%;
+    color: white;
+  }
+font{
+  font-size: 12px;
+font-family: "微软雅黑";
+}
+</style>
+
+<tc_include file="Public:head" />
+<body class="body-white">
+    <tc_include file="Public:nav" />
+<div id="top"></div>
+    <tc_include file="Public:scripts"/>
+    <script src="__TMPL__Public/assets/js/slippry.min.js"></script>
+    <script src="__TMPL__Public/assets/js/jquery-3.1.1.min.js"></script>
+<img src="__PUBLIC__/images/bag5.jpg" class="big">
+    <div align="center" style="margin-top: 30px"><h3>职位详情</h3></div>
+
+    <ul class="nav nav-list">
+
+         <li class="divider"></li>
+
+    </ul>
+      <link href="__TMPL__Public/join/css/position.css" rel="stylesheet">
+<div id="main">
+    <div class="table-responsive">
+             <volist name="position" id="position">
+        <table class="table table-bordered" width="1200" id="join-table">
+          <tbody>
+                <tr>
+                <input type="hidden" name="joinid">
+                    <td class="category active tdalign"><font>职位类型：</font></td>
+                    <td><font>{$position.position_type}</font></td>
+                    <td class="category active tdalign"><font>职位名称：</font></td>
+                    <td><font>{$position.position_name}</font></td>
+                </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>招聘人数：</font></td>
+                    <td><font>{$position.position_number}</font</td>
+                    <td class="category active tdalign"><font>性别：</font></td>
+                    <td>
+                    <switch name="position.position_sex">
+                            <case value="2"><font>不限</font></case>
+                            <case value="0"><font>女</font></case>
+                            <case value="1"><font>男</font></case>
+                            <default /><font>性别</font></switch>
+                </td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>工作性质：</font</td>
+                    <td><font>{$position.position_nature}</font</td>
+                    <td class="category active tdalign">薪水范围：</font</td>
+                    <td><font>{$position.position_salary}</font</td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>学历要求：</font</td>
+                    <td>
+                    <switch name="position.position_education">
+                            <case value="0"><font>中专及以上</font></case>
+                            <case value="1"><font>高中</font></case>
+                            <case value="2"><font>专科</font></case>
+                            <case value="3"><font>本科</font></case>
+                            <case value="4"><font>硕士</font></case>
+                            <case value="5"><font>博士及以上</font></case>
+                            <default />性别</switch>
+                    </td>
+                    <td class="category active tdalign"><font>工作地区：</font</td>
+                    <td><font>{$position.position_district}</font</td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>工作部门：</font</td>
+                    <td><font>{$position.position_section}</font</td>
+                    <td class="category active tdalign"><font>工作年限：</font</td>
+                    <td>
+                        <switch name="position.position_year">
+                            <case value="0"><font>应届毕业生</font></case>
+                            <case value="1"><font>在校大学生</font></case>
+                            <case value="2"><font>1年以上</font></case>
+                            <case value="3"><font>2年以上</font></case>
+                            <case value="4"><font>3年以上</font></case>
+                            <case value="5"><font>5年以上</font></case>
+                            <case value="6"><font>8年以上</font></case>
+                            <case value="7"><font>10年以上</font></case>
+                            <default />工作年限</switch>
+                   </td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>年龄要求：</font</td>
+                    <td><font>{$position.position_age}</font</td>
+                    <td class="category active tdalign"><font>职位标记：</font</td>
+                    <td><font>{$position.position_tag}</font</td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>发布日期：</font</td>
+                    <td><font>{$position.position_release}</font</td>
+                    <td class="category active tdalign"><font>截止日期：</font</td>
+                    <td><font>{$position.position_abort}</font</td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>职位描述：</font</td>
+                    <td colspan="3"><font>{$position.position_describe}</font</td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>能力要求：</font</td>
+                    <td colspan="3"><font>{$position.position_require}</font</td>
+                 </tr>
+                 <tr>
+                    <td class="category active tdalign"><font>其他说明：</font</td>
+                    <td colspan="3"><font>{$position.position_other}</font</td>
+                 </tr>
+ </volist>
+          </tbody>
+        </table>
+    </div>
+    <div align="center">
+          <a class="btn btn-default" href="{:U('Portal/Join/immediatelyapply',array('nameid'=>$id))}" role="button" style="margin-right: 50px;"><font>立刻申请该职位</font></a>
+          <a class="btn btn-default" href="{:U('Portal/Join/index')}" role="button"><font>返回</font></a>
+    </div>
+<tc_include file="Public:footer"/>
+    </div>
+
+
+

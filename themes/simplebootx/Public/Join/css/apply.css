@@ -1,0 +1,46 @@
+ .category{
+width:188px;
+ }
+.experience{
+    width: 200px;
+    height: 200px;
+}
+#divtitle{
+    margin-top: 30px;
+}
+  #sel_year{
+    width: 70px;
+    height:35px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+  }
+  #sel_month{
+    width: 50px !important;
+      height: 35px;
+margin-top: 10px;
+margin-bottom: 10px;
+  }
+  #sel_day{
+    width: 50px !important;
+    height:35px;
+margin-top: 10px;
+margin-bottom: 10px;
+  }
+#marriage{
+width: 90px !important;
+ height:35px;
+margin-bottom: 8px;
+}
+
+#experience{
+ width: 206px !important;
+height: 85px;
+position: relative;
+top: -25px;
+left: 76px;
+}
+#cerifyimg{
+position:relative;
+top:-5px;
+}

@@ -1,0 +1,73 @@
+    .emptyfont{
+  font-size: 30px;
+    }
+
+  .basetd{
+    width:100px !important;
+    text-align:right;
+    height:45px !important;
+    vertical-align:middle !important;
+  }
+  .importtd{
+    text-align:left;
+width:266px !important;
+ height:45px !important;
+vertical-align:middle !important;
+  }
+  .baseinput{
+    height: 35px !important;
+    width:206px !important;
+    display: inline-block !important;
+  }
+#height{
+   width:174px !important;
+}
+
+  #email{
+    height: 35px;
+    width:206px;
+    display: inline-block;
+  }
+  .xinfont{
+    font-size: 20px;
+    color: red;
+    position: relative;
+    top: -5px;
+  }
+  .heighttd{
+    height:35px;
+  }
+
+  #main{
+    width: 900px;
+    margin: 20px auto;
+  }
+  .selectheight{
+
+    height: 35px;
+     width:206px !important;
+  }
+  #verify{
+    height: 35px;
+    width:100px;
+    display: inline-block;
+
+  }
+
+#education{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+#workingyear{
+  margin-top: 10px;
+margin-bottom: 10px;
+}
+#quality{
+   margin-top: 10px;
+margin-bottom: 10px;
+}
+#present{
+  position: relative;
+  left: 1px;
+}

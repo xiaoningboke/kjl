@@ -1,0 +1,42 @@
+[ 2017-04-10T11:34:31+08:00 ] 221.1.80.74 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.001953s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `cmf_users` WHERE `id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0020s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0020s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 8 AND `term_id` NOT IN ('4') [ RunTime:0.0215s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 8 AND `term_id` = '4' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 8 AND `term_id` = '4' [ RunTime:0.0010s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='龙丰纸业复卷机改善案例',`post_keywords`='复卷机，项目验收， 验收',`post_source`='',`post_excerpt`='',`post_date`='2017-03-05 18:52:19',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p style=\"text-align: center;\"><span style=\"color: rgb(0, 32, 96);\">&nbsp; &nbsp;<span style=\"color: rgb(0, 32, 96); font-size: 24px;\"><strong> &nbsp;河南濮阳龙丰纸业复卷机改善项目验收</strong></span></span></p><p><br/></p><p style=\"margin-bottom: 20px;\">&nbsp; &nbsp; 2017年3月30日，康吉诺（北京）科技有限公司与河南濮阳龙丰纸业有限公司召开项目验收会，对康吉诺（北京）科技有限公司为河南濮阳龙丰纸业有限公司复卷机改善项目组织进行了验收，经双方确认该项目改善成效显著，为企业解决了困扰已久的设备难题，达到预期效果，项目顺利通过验收。</p><p style=\"text-align: center;\"><img src=\"/data/upload/ueditor/20170401/58df24f7afd2a.png\" title=\"blob.png\" alt=\"blob.png\"/></p><p style=\"text-align: center;\">项目验收会现场</p>',`post_modified`='2017-04-10 11:34:31',`smeta`='{\"thumb\":\"portal\\/20170401\\/58df3be99f8d2.jpg\",\"template\":\"\"}' WHERE `id` = '8' [ RunTime:0.0000s ]
+
+[ 2017-04-10T13:52:45+08:00 ] 221.1.80.74 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.001953s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `cmf_users` WHERE `id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0020s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '2' AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0020s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 8 AND `term_id` NOT IN ('4') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 8 AND `term_id` = '4' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 8 AND `term_id` = '4' [ RunTime:0.0010s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='造纸厂复卷机改善案例',`post_keywords`='复卷机，项目验收， 验收',`post_source`='',`post_excerpt`='',`post_date`='2017-03-05 18:52:19',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p style=\"text-align: center;\"><span style=\"color: rgb(0, 32, 96);\">&nbsp; &nbsp;<span style=\"color: rgb(0, 32, 96); font-size: 24px;\"><strong> &nbsp;河南濮阳龙丰纸业复卷机改善项目验收</strong></span></span></p><p><br/></p><p style=\"margin-bottom: 20px;\">&nbsp; &nbsp; 2017年3月30日，康吉诺（北京）科技有限公司与河南濮阳龙丰纸业有限公司召开项目验收会，对康吉诺（北京）科技有限公司为河南濮阳龙丰纸业有限公司复卷机改善项目组织进行了验收，经双方确认该项目改善成效显著，为企业解决了困扰已久的设备难题，达到预期效果，项目顺利通过验收。</p><p style=\"text-align: center;\"><img src=\"/data/upload/ueditor/20170401/58df24f7afd2a.png\" title=\"blob.png\" alt=\"blob.png\"/></p><p style=\"text-align: center;\">项目验收会现场</p>',`post_modified`='2017-04-10 13:52:45',`smeta`='{\"thumb\":\"portal\\/20170401\\/58df3be99f8d2.jpg\",\"template\":\"\"}' WHERE `id` = '8' [ RunTime:0.0010s ]
+

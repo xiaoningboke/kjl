@@ -1,0 +1,90 @@
+[ 2017-04-07T18:07:08+08:00 ] ::1 /kjl/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000768s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+INFO: [ admin_begin ] --START--
+INFO: Run Common\Behavior\AdminDefaultLangBehavior [ RunTime:0.001019s ]
+INFO: [ admin_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0349s ]
+SQL: SELECT * FROM `cmf_users` WHERE `user_login` = 'qxit' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `cmf_role_user` [ RunTime:0.0109s ]
+SQL: SELECT `role_id` FROM cmf_role_user a INNER JOIN cmf_role as b on a.role_id =b.id  WHERE `user_id` = '1' AND `status` = 1  [ RunTime:0.0297s ]
+SQL: UPDATE `cmf_users` SET `user_login`='qxit',`user_pass`='###845d4ca5fad79a80137aa3ff91b468ec',`user_nicename`='qxit',`user_email`='1@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`='2000-01-01',`signature`='',`last_login_ip`='0.0.0.0',`last_login_time`='2017-04-07 18:07:08',`create_time`='2017-03-01 04:02:11',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '1' [ RunTime:0.0426s ]
+
+[ 2017-04-07T20:35:56+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:35:56+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:37:10+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:37:10+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:37:16+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:37:16+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:37:21+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:37:21+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:38:31+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:38:31+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:38:38+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/assets/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:38:38+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/assets/css/bootstrap.min.css.map
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:40:15+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:40:15+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:40:27+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:40:27+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:41:00+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:41:00+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:41:31+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:41:32+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:45:00+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:45:00+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:45:29+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:48:18+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
+[ 2017-04-07T20:48:18+08:00 ] ::1 /kjl/admin/themes/simplebootx/Public/join/css/join.css
+ERR: 无法加载控制器:Themes
+
